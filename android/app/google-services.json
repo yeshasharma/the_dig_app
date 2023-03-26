@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "78433260359",
+    "project_id": "the-dig-app-c3c6d",
+    "storage_bucket": "the-dig-app-c3c6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78433260359:android:c873253f670f57ce5e3262",
+        "android_client_info": {
+          "package_name": "com.example.the_dig_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78433260359-8303birlkv7qjhir3o315ub7o0d73fve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnfmmGp_3yg1a9FCJLRfktseyku4jmb7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78433260359-8303birlkv7qjhir3o315ub7o0d73fve.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "78433260359-g7c1obb6dii7a1j2q9jmadgb8d4rsn5s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.theDigApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
